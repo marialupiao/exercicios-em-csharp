@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\glicose\glicose\bin\Debug\net6.0\glicose.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\glicose\glicose\bin\Debug\net6.0\glicose.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\glicose\glicose\bin\Debug\net6.0\glicose.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\glicose\glicose\bin\Debug\net6.0\glicose.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\glicose\glicose\bin\Debug\net6.0\glicose.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\glicose\glicose\obj\Debug\net6.0\glicose.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\glicose\glicose\obj\Debug\net6.0\glicose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\glicose\glicose\obj\Debug\net6.0\glicose.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\glicose\glicose\obj\Debug\net6.0\glicose.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\glicose\glicose\obj\Debug\net6.0\glicose.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\glicose\glicose\obj\Debug\net6.0\glicose.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\glicose\glicose\obj\Debug\net6.0\refint\glicose.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\glicose\glicose\obj\Debug\net6.0\glicose.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\glicose\glicose\obj\Debug\net6.0\glicose.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\glicose\glicose\obj\Debug\net6.0\ref\glicose.dll

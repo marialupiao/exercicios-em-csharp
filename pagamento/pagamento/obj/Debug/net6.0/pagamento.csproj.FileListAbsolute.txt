@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\pagamento\pagamento\bin\Debug\net6.0\pagamento.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\pagamento\pagamento\bin\Debug\net6.0\pagamento.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\pagamento\pagamento\bin\Debug\net6.0\pagamento.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\pagamento\pagamento\bin\Debug\net6.0\pagamento.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\pagamento\pagamento\bin\Debug\net6.0\pagamento.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\pagamento\pagamento\obj\Debug\net6.0\pagamento.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\pagamento\pagamento\obj\Debug\net6.0\pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\pagamento\pagamento\obj\Debug\net6.0\pagamento.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\pagamento\pagamento\obj\Debug\net6.0\pagamento.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\pagamento\pagamento\obj\Debug\net6.0\pagamento.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\pagamento\pagamento\obj\Debug\net6.0\pagamento.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\pagamento\pagamento\obj\Debug\net6.0\refint\pagamento.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\pagamento\pagamento\obj\Debug\net6.0\pagamento.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\pagamento\pagamento\obj\Debug\net6.0\pagamento.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\pagamento\pagamento\obj\Debug\net6.0\ref\pagamento.dll

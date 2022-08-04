@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\temperatura\temperatura\bin\Debug\net6.0\temperatura.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\temperatura\temperatura\bin\Debug\net6.0\temperatura.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\temperatura\temperatura\bin\Debug\net6.0\temperatura.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\temperatura\temperatura\bin\Debug\net6.0\temperatura.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\temperatura\temperatura\bin\Debug\net6.0\temperatura.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\temperatura\temperatura\obj\Debug\net6.0\temperatura.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\temperatura\temperatura\obj\Debug\net6.0\temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\temperatura\temperatura\obj\Debug\net6.0\temperatura.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\temperatura\temperatura\obj\Debug\net6.0\temperatura.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\temperatura\temperatura\obj\Debug\net6.0\temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\temperatura\temperatura\obj\Debug\net6.0\temperatura.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\temperatura\temperatura\obj\Debug\net6.0\refint\temperatura.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\temperatura\temperatura\obj\Debug\net6.0\temperatura.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\temperatura\temperatura\obj\Debug\net6.0\temperatura.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\temperatura\temperatura\obj\Debug\net6.0\ref\temperatura.dll

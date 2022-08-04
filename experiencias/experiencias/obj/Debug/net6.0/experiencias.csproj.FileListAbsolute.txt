@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\experiencias\experiencias\bin\Debug\net6.0\experiencias.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\experiencias\experiencias\bin\Debug\net6.0\experiencias.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\experiencias\experiencias\bin\Debug\net6.0\experiencias.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\experiencias\experiencias\bin\Debug\net6.0\experiencias.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\experiencias\experiencias\bin\Debug\net6.0\experiencias.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\experiencias\experiencias\obj\Debug\net6.0\experiencias.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\experiencias\experiencias\obj\Debug\net6.0\experiencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\experiencias\experiencias\obj\Debug\net6.0\experiencias.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\experiencias\experiencias\obj\Debug\net6.0\experiencias.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\experiencias\experiencias\obj\Debug\net6.0\experiencias.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\experiencias\experiencias\obj\Debug\net6.0\experiencias.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\experiencias\experiencias\obj\Debug\net6.0\refint\experiencias.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\experiencias\experiencias\obj\Debug\net6.0\experiencias.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\experiencias\experiencias\obj\Debug\net6.0\experiencias.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\experiencias\experiencias\obj\Debug\net6.0\ref\experiencias.dll

@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\duracao\duracao\bin\Debug\net6.0\duracao.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\duracao\duracao\bin\Debug\net6.0\duracao.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\duracao\duracao\bin\Debug\net6.0\duracao.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\duracao\duracao\bin\Debug\net6.0\duracao.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\duracao\duracao\bin\Debug\net6.0\duracao.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\duracao\duracao\obj\Debug\net6.0\duracao.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\duracao\duracao\obj\Debug\net6.0\duracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\duracao\duracao\obj\Debug\net6.0\duracao.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\duracao\duracao\obj\Debug\net6.0\duracao.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\duracao\duracao\obj\Debug\net6.0\duracao.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\duracao\duracao\obj\Debug\net6.0\duracao.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\duracao\duracao\obj\Debug\net6.0\refint\duracao.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\duracao\duracao\obj\Debug\net6.0\duracao.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\duracao\duracao\obj\Debug\net6.0\duracao.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\duracao\duracao\obj\Debug\net6.0\ref\duracao.dll

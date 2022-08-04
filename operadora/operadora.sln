@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operadora", "operadora\operadora.csproj", "{E3F434A8-58F2-4E3B-9203-1AACC50EFABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3F434A8-58F2-4E3B-9203-1AACC50EFABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F434A8-58F2-4E3B-9203-1AACC50EFABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F434A8-58F2-4E3B-9203-1AACC50EFABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F434A8-58F2-4E3B-9203-1AACC50EFABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779543D6-A1B5-449F-8E6C-36FE0D8F3214}
+	EndGlobalSection
+EndGlobal

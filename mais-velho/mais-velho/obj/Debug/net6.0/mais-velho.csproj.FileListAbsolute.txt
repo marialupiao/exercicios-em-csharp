@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\mais-velho\mais-velho\bin\Debug\net6.0\mais-velho.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\mais-velho\mais-velho\bin\Debug\net6.0\mais-velho.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\mais-velho\mais-velho\bin\Debug\net6.0\mais-velho.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\mais-velho\mais-velho\bin\Debug\net6.0\mais-velho.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\mais-velho\mais-velho\bin\Debug\net6.0\mais-velho.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\mais-velho\mais-velho\obj\Debug\net6.0\mais-velho.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\mais-velho\mais-velho\obj\Debug\net6.0\mais-velho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\mais-velho\mais-velho\obj\Debug\net6.0\mais-velho.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\mais-velho\mais-velho\obj\Debug\net6.0\mais-velho.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\mais-velho\mais-velho\obj\Debug\net6.0\mais-velho.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\mais-velho\mais-velho\obj\Debug\net6.0\mais-velho.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\mais-velho\mais-velho\obj\Debug\net6.0\refint\mais-velho.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\mais-velho\mais-velho\obj\Debug\net6.0\mais-velho.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\mais-velho\mais-velho\obj\Debug\net6.0\mais-velho.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\mais-velho\mais-velho\obj\Debug\net6.0\ref\mais-velho.dll

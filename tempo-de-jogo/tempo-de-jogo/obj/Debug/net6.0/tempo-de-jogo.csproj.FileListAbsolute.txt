@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\tempo-de-jogo\tempo-de-jogo\bin\Debug\net6.0\tempo-de-jogo.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\tempo-de-jogo\tempo-de-jogo\bin\Debug\net6.0\tempo-de-jogo.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\tempo-de-jogo\tempo-de-jogo\bin\Debug\net6.0\tempo-de-jogo.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\tempo-de-jogo\tempo-de-jogo\bin\Debug\net6.0\tempo-de-jogo.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\tempo-de-jogo\tempo-de-jogo\bin\Debug\net6.0\tempo-de-jogo.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\tempo-de-jogo\tempo-de-jogo\obj\Debug\net6.0\tempo-de-jogo.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\tempo-de-jogo\tempo-de-jogo\obj\Debug\net6.0\tempo-de-jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\tempo-de-jogo\tempo-de-jogo\obj\Debug\net6.0\tempo-de-jogo.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\tempo-de-jogo\tempo-de-jogo\obj\Debug\net6.0\tempo-de-jogo.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\tempo-de-jogo\tempo-de-jogo\obj\Debug\net6.0\tempo-de-jogo.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\tempo-de-jogo\tempo-de-jogo\obj\Debug\net6.0\tempo-de-jogo.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\tempo-de-jogo\tempo-de-jogo\obj\Debug\net6.0\refint\tempo-de-jogo.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\tempo-de-jogo\tempo-de-jogo\obj\Debug\net6.0\tempo-de-jogo.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\tempo-de-jogo\tempo-de-jogo\obj\Debug\net6.0\tempo-de-jogo.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\tempo-de-jogo\tempo-de-jogo\obj\Debug\net6.0\ref\tempo-de-jogo.dll

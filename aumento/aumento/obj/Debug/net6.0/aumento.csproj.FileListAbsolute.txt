@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\aumento\aumento\bin\Debug\net6.0\aumento.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\aumento\aumento\bin\Debug\net6.0\aumento.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\aumento\aumento\bin\Debug\net6.0\aumento.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\aumento\aumento\bin\Debug\net6.0\aumento.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\aumento\aumento\bin\Debug\net6.0\aumento.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\aumento\aumento\obj\Debug\net6.0\aumento.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\aumento\aumento\obj\Debug\net6.0\aumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\aumento\aumento\obj\Debug\net6.0\aumento.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\aumento\aumento\obj\Debug\net6.0\aumento.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\aumento\aumento\obj\Debug\net6.0\aumento.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\aumento\aumento\obj\Debug\net6.0\aumento.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\aumento\aumento\obj\Debug\net6.0\refint\aumento.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\aumento\aumento\obj\Debug\net6.0\aumento.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\aumento\aumento\obj\Debug\net6.0\aumento.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\aumento\aumento\obj\Debug\net6.0\ref\aumento.dll

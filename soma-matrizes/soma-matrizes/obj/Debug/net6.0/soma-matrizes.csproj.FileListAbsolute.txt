@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-matrizes\soma-matrizes\bin\Debug\net6.0\soma-matrizes.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-matrizes\soma-matrizes\bin\Debug\net6.0\soma-matrizes.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-matrizes\soma-matrizes\bin\Debug\net6.0\soma-matrizes.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-matrizes\soma-matrizes\bin\Debug\net6.0\soma-matrizes.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-matrizes\soma-matrizes\bin\Debug\net6.0\soma-matrizes.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-matrizes\soma-matrizes\obj\Debug\net6.0\soma-matrizes.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-matrizes\soma-matrizes\obj\Debug\net6.0\soma-matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-matrizes\soma-matrizes\obj\Debug\net6.0\soma-matrizes.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-matrizes\soma-matrizes\obj\Debug\net6.0\soma-matrizes.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-matrizes\soma-matrizes\obj\Debug\net6.0\soma-matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-matrizes\soma-matrizes\obj\Debug\net6.0\soma-matrizes.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-matrizes\soma-matrizes\obj\Debug\net6.0\refint\soma-matrizes.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-matrizes\soma-matrizes\obj\Debug\net6.0\soma-matrizes.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-matrizes\soma-matrizes\obj\Debug\net6.0\soma-matrizes.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-matrizes\soma-matrizes\obj\Debug\net6.0\ref\soma-matrizes.dll

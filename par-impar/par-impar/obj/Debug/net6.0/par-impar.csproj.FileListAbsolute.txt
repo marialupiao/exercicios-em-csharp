@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\par-impar\par-impar\bin\Debug\net6.0\par-impar.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\par-impar\par-impar\bin\Debug\net6.0\par-impar.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\par-impar\par-impar\bin\Debug\net6.0\par-impar.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\par-impar\par-impar\bin\Debug\net6.0\par-impar.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\par-impar\par-impar\bin\Debug\net6.0\par-impar.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\par-impar\par-impar\obj\Debug\net6.0\par-impar.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\par-impar\par-impar\obj\Debug\net6.0\par-impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\par-impar\par-impar\obj\Debug\net6.0\par-impar.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\par-impar\par-impar\obj\Debug\net6.0\par-impar.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\par-impar\par-impar\obj\Debug\net6.0\par-impar.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\par-impar\par-impar\obj\Debug\net6.0\par-impar.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\par-impar\par-impar\obj\Debug\net6.0\refint\par-impar.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\par-impar\par-impar\obj\Debug\net6.0\par-impar.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\par-impar\par-impar\obj\Debug\net6.0\par-impar.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\par-impar\par-impar\obj\Debug\net6.0\ref\par-impar.dll

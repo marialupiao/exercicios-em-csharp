@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\dardo\dardo\bin\Debug\net6.0\dardo.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\dardo\dardo\bin\Debug\net6.0\dardo.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\dardo\dardo\bin\Debug\net6.0\dardo.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\dardo\dardo\bin\Debug\net6.0\dardo.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\dardo\dardo\bin\Debug\net6.0\dardo.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\dardo\dardo\obj\Debug\net6.0\dardo.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\dardo\dardo\obj\Debug\net6.0\dardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\dardo\dardo\obj\Debug\net6.0\dardo.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\dardo\dardo\obj\Debug\net6.0\dardo.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\dardo\dardo\obj\Debug\net6.0\dardo.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\dardo\dardo\obj\Debug\net6.0\dardo.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\dardo\dardo\obj\Debug\net6.0\refint\dardo.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\dardo\dardo\obj\Debug\net6.0\dardo.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\dardo\dardo\obj\Debug\net6.0\dardo.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\dardo\dardo\obj\Debug\net6.0\ref\dardo.dll

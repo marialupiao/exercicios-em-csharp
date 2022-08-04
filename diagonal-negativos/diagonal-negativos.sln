@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diagonal-negativos", "diagonal-negativos\diagonal-negativos.csproj", "{D782E8C9-BECF-4E1C-8D68-AD660D004839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D782E8C9-BECF-4E1C-8D68-AD660D004839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D782E8C9-BECF-4E1C-8D68-AD660D004839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D782E8C9-BECF-4E1C-8D68-AD660D004839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D782E8C9-BECF-4E1C-8D68-AD660D004839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84BE9C81-56B2-45BF-8470-46185D53DC14}
+	EndGlobalSection
+EndGlobal

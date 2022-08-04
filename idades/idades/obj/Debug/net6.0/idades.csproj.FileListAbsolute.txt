@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\idades\idades\bin\Debug\net6.0\idades.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\idades\idades\bin\Debug\net6.0\idades.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\idades\idades\bin\Debug\net6.0\idades.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\idades\idades\bin\Debug\net6.0\idades.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\idades\idades\bin\Debug\net6.0\idades.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\idades\idades\obj\Debug\net6.0\idades.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\idades\idades\obj\Debug\net6.0\idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\idades\idades\obj\Debug\net6.0\idades.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\idades\idades\obj\Debug\net6.0\idades.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\idades\idades\obj\Debug\net6.0\idades.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\idades\idades\obj\Debug\net6.0\idades.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\idades\idades\obj\Debug\net6.0\refint\idades.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\idades\idades\obj\Debug\net6.0\idades.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\idades\idades\obj\Debug\net6.0\idades.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\idades\idades\obj\Debug\net6.0\ref\idades.dll

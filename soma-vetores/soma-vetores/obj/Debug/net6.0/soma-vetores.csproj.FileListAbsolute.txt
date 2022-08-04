@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-vetores\soma-vetores\bin\Debug\net6.0\soma-vetores.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-vetores\soma-vetores\bin\Debug\net6.0\soma-vetores.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-vetores\soma-vetores\bin\Debug\net6.0\soma-vetores.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-vetores\soma-vetores\bin\Debug\net6.0\soma-vetores.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-vetores\soma-vetores\bin\Debug\net6.0\soma-vetores.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-vetores\soma-vetores\obj\Debug\net6.0\soma-vetores.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-vetores\soma-vetores\obj\Debug\net6.0\soma-vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-vetores\soma-vetores\obj\Debug\net6.0\soma-vetores.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-vetores\soma-vetores\obj\Debug\net6.0\soma-vetores.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-vetores\soma-vetores\obj\Debug\net6.0\soma-vetores.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-vetores\soma-vetores\obj\Debug\net6.0\soma-vetores.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-vetores\soma-vetores\obj\Debug\net6.0\refint\soma-vetores.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-vetores\soma-vetores\obj\Debug\net6.0\soma-vetores.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-vetores\soma-vetores\obj\Debug\net6.0\soma-vetores.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-vetores\soma-vetores\obj\Debug\net6.0\ref\soma-vetores.dll

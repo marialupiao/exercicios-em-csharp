@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\validacao-de-nota\validacao-de-nota\bin\Debug\net6.0\validacao-de-nota.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\validacao-de-nota\validacao-de-nota\bin\Debug\net6.0\validacao-de-nota.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\validacao-de-nota\validacao-de-nota\bin\Debug\net6.0\validacao-de-nota.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\validacao-de-nota\validacao-de-nota\bin\Debug\net6.0\validacao-de-nota.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\validacao-de-nota\validacao-de-nota\bin\Debug\net6.0\validacao-de-nota.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\validacao-de-nota\validacao-de-nota\obj\Debug\net6.0\validacao-de-nota.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\validacao-de-nota\validacao-de-nota\obj\Debug\net6.0\validacao-de-nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\validacao-de-nota\validacao-de-nota\obj\Debug\net6.0\validacao-de-nota.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\validacao-de-nota\validacao-de-nota\obj\Debug\net6.0\validacao-de-nota.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\validacao-de-nota\validacao-de-nota\obj\Debug\net6.0\validacao-de-nota.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\validacao-de-nota\validacao-de-nota\obj\Debug\net6.0\validacao-de-nota.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\validacao-de-nota\validacao-de-nota\obj\Debug\net6.0\refint\validacao-de-nota.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\validacao-de-nota\validacao-de-nota\obj\Debug\net6.0\validacao-de-nota.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\validacao-de-nota\validacao-de-nota\obj\Debug\net6.0\validacao-de-nota.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\validacao-de-nota\validacao-de-nota\obj\Debug\net6.0\ref\validacao-de-nota.dll

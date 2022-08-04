@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\acima-diagonal\acima-diagonal\bin\Debug\net6.0\acima-diagonal.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\acima-diagonal\acima-diagonal\bin\Debug\net6.0\acima-diagonal.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\acima-diagonal\acima-diagonal\bin\Debug\net6.0\acima-diagonal.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\acima-diagonal\acima-diagonal\bin\Debug\net6.0\acima-diagonal.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\acima-diagonal\acima-diagonal\bin\Debug\net6.0\acima-diagonal.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\acima-diagonal\acima-diagonal\obj\Debug\net6.0\acima-diagonal.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\acima-diagonal\acima-diagonal\obj\Debug\net6.0\acima-diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\acima-diagonal\acima-diagonal\obj\Debug\net6.0\acima-diagonal.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\acima-diagonal\acima-diagonal\obj\Debug\net6.0\acima-diagonal.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\acima-diagonal\acima-diagonal\obj\Debug\net6.0\acima-diagonal.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\acima-diagonal\acima-diagonal\obj\Debug\net6.0\acima-diagonal.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\acima-diagonal\acima-diagonal\obj\Debug\net6.0\refint\acima-diagonal.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\acima-diagonal\acima-diagonal\obj\Debug\net6.0\acima-diagonal.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\acima-diagonal\acima-diagonal\obj\Debug\net6.0\acima-diagonal.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\acima-diagonal\acima-diagonal\obj\Debug\net6.0\ref\acima-diagonal.dll

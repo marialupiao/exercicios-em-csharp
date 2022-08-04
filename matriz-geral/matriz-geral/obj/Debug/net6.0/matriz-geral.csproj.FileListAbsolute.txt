@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\matriz-geral\matriz-geral\bin\Debug\net6.0\matriz-geral.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\matriz-geral\matriz-geral\bin\Debug\net6.0\matriz-geral.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\matriz-geral\matriz-geral\bin\Debug\net6.0\matriz-geral.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\matriz-geral\matriz-geral\bin\Debug\net6.0\matriz-geral.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\matriz-geral\matriz-geral\bin\Debug\net6.0\matriz-geral.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\matriz-geral\matriz-geral\obj\Debug\net6.0\matriz-geral.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\matriz-geral\matriz-geral\obj\Debug\net6.0\matriz-geral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\matriz-geral\matriz-geral\obj\Debug\net6.0\matriz-geral.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\matriz-geral\matriz-geral\obj\Debug\net6.0\matriz-geral.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\matriz-geral\matriz-geral\obj\Debug\net6.0\matriz-geral.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\matriz-geral\matriz-geral\obj\Debug\net6.0\matriz-geral.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\matriz-geral\matriz-geral\obj\Debug\net6.0\refint\matriz-geral.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\matriz-geral\matriz-geral\obj\Debug\net6.0\matriz-geral.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\matriz-geral\matriz-geral\obj\Debug\net6.0\matriz-geral.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\matriz-geral\matriz-geral\obj\Debug\net6.0\ref\matriz-geral.dll

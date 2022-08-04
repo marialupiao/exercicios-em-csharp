@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\multiplos\multiplos\bin\Debug\net6.0\multiplos.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\multiplos\multiplos\bin\Debug\net6.0\multiplos.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\multiplos\multiplos\bin\Debug\net6.0\multiplos.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\multiplos\multiplos\bin\Debug\net6.0\multiplos.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\multiplos\multiplos\bin\Debug\net6.0\multiplos.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\multiplos\multiplos\obj\Debug\net6.0\multiplos.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\multiplos\multiplos\obj\Debug\net6.0\multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\multiplos\multiplos\obj\Debug\net6.0\multiplos.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\multiplos\multiplos\obj\Debug\net6.0\multiplos.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\multiplos\multiplos\obj\Debug\net6.0\multiplos.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\multiplos\multiplos\obj\Debug\net6.0\multiplos.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\multiplos\multiplos\obj\Debug\net6.0\refint\multiplos.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\multiplos\multiplos\obj\Debug\net6.0\multiplos.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\multiplos\multiplos\obj\Debug\net6.0\multiplos.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\multiplos\multiplos\obj\Debug\net6.0\ref\multiplos.dll

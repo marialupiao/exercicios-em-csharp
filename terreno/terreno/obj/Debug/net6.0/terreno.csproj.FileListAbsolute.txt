@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\terreno\terreno\bin\Debug\net6.0\terreno.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\terreno\terreno\bin\Debug\net6.0\terreno.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\terreno\terreno\bin\Debug\net6.0\terreno.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\terreno\terreno\bin\Debug\net6.0\terreno.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\terreno\terreno\bin\Debug\net6.0\terreno.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\terreno\terreno\obj\Debug\net6.0\terreno.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\terreno\terreno\obj\Debug\net6.0\terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\terreno\terreno\obj\Debug\net6.0\terreno.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\terreno\terreno\obj\Debug\net6.0\terreno.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\terreno\terreno\obj\Debug\net6.0\terreno.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\terreno\terreno\obj\Debug\net6.0\terreno.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\terreno\terreno\obj\Debug\net6.0\refint\terreno.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\terreno\terreno\obj\Debug\net6.0\terreno.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\terreno\terreno\obj\Debug\net6.0\terreno.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\terreno\terreno\obj\Debug\net6.0\ref\terreno.dll

@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco-verificado\troco-verificado\bin\Debug\net6.0\troco-verificado.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco-verificado\troco-verificado\bin\Debug\net6.0\troco-verificado.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco-verificado\troco-verificado\bin\Debug\net6.0\troco-verificado.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco-verificado\troco-verificado\bin\Debug\net6.0\troco-verificado.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco-verificado\troco-verificado\bin\Debug\net6.0\troco-verificado.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco-verificado\troco-verificado\obj\Debug\net6.0\troco-verificado.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco-verificado\troco-verificado\obj\Debug\net6.0\troco-verificado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco-verificado\troco-verificado\obj\Debug\net6.0\troco-verificado.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco-verificado\troco-verificado\obj\Debug\net6.0\troco-verificado.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco-verificado\troco-verificado\obj\Debug\net6.0\troco-verificado.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco-verificado\troco-verificado\obj\Debug\net6.0\troco-verificado.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco-verificado\troco-verificado\obj\Debug\net6.0\refint\troco-verificado.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco-verificado\troco-verificado\obj\Debug\net6.0\troco-verificado.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco-verificado\troco-verificado\obj\Debug\net6.0\troco-verificado.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco-verificado\troco-verificado\obj\Debug\net6.0\ref\troco-verificado.dll

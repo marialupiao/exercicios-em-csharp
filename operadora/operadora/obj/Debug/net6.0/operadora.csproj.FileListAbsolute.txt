@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\operadora\operadora\bin\Debug\net6.0\operadora.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\operadora\operadora\bin\Debug\net6.0\operadora.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\operadora\operadora\bin\Debug\net6.0\operadora.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\operadora\operadora\bin\Debug\net6.0\operadora.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\operadora\operadora\bin\Debug\net6.0\operadora.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\operadora\operadora\obj\Debug\net6.0\operadora.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\operadora\operadora\obj\Debug\net6.0\operadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\operadora\operadora\obj\Debug\net6.0\operadora.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\operadora\operadora\obj\Debug\net6.0\operadora.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\operadora\operadora\obj\Debug\net6.0\operadora.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\operadora\operadora\obj\Debug\net6.0\operadora.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\operadora\operadora\obj\Debug\net6.0\refint\operadora.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\operadora\operadora\obj\Debug\net6.0\operadora.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\operadora\operadora\obj\Debug\net6.0\operadora.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\operadora\operadora\obj\Debug\net6.0\ref\operadora.dll

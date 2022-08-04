@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\comerciante\comerciante\bin\Debug\net6.0\comerciante.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\comerciante\comerciante\bin\Debug\net6.0\comerciante.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\comerciante\comerciante\bin\Debug\net6.0\comerciante.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\comerciante\comerciante\bin\Debug\net6.0\comerciante.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\comerciante\comerciante\bin\Debug\net6.0\comerciante.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\comerciante\comerciante\obj\Debug\net6.0\comerciante.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\comerciante\comerciante\obj\Debug\net6.0\comerciante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\comerciante\comerciante\obj\Debug\net6.0\comerciante.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\comerciante\comerciante\obj\Debug\net6.0\comerciante.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\comerciante\comerciante\obj\Debug\net6.0\comerciante.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\comerciante\comerciante\obj\Debug\net6.0\comerciante.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\comerciante\comerciante\obj\Debug\net6.0\refint\comerciante.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\comerciante\comerciante\obj\Debug\net6.0\comerciante.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\comerciante\comerciante\obj\Debug\net6.0\comerciante.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\comerciante\comerciante\obj\Debug\net6.0\ref\comerciante.dll

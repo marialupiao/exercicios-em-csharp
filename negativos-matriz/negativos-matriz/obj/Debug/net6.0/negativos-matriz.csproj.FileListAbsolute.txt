@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\negativos-matriz\negativos-matriz\bin\Debug\net6.0\negativos-matriz.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\negativos-matriz\negativos-matriz\bin\Debug\net6.0\negativos-matriz.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\negativos-matriz\negativos-matriz\bin\Debug\net6.0\negativos-matriz.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\negativos-matriz\negativos-matriz\bin\Debug\net6.0\negativos-matriz.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\negativos-matriz\negativos-matriz\bin\Debug\net6.0\negativos-matriz.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\negativos-matriz\negativos-matriz\obj\Debug\net6.0\negativos-matriz.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\negativos-matriz\negativos-matriz\obj\Debug\net6.0\negativos-matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\negativos-matriz\negativos-matriz\obj\Debug\net6.0\negativos-matriz.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\negativos-matriz\negativos-matriz\obj\Debug\net6.0\negativos-matriz.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\negativos-matriz\negativos-matriz\obj\Debug\net6.0\negativos-matriz.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\negativos-matriz\negativos-matriz\obj\Debug\net6.0\negativos-matriz.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\negativos-matriz\negativos-matriz\obj\Debug\net6.0\refint\negativos-matriz.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\negativos-matriz\negativos-matriz\obj\Debug\net6.0\negativos-matriz.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\negativos-matriz\negativos-matriz\obj\Debug\net6.0\negativos-matriz.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\negativos-matriz\negativos-matriz\obj\Debug\net6.0\ref\negativos-matriz.dll

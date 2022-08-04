@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\sequencia-impares\sequencia-impares\bin\Debug\net6.0\sequencia-impares.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\sequencia-impares\sequencia-impares\bin\Debug\net6.0\sequencia-impares.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\sequencia-impares\sequencia-impares\bin\Debug\net6.0\sequencia-impares.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\sequencia-impares\sequencia-impares\bin\Debug\net6.0\sequencia-impares.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\sequencia-impares\sequencia-impares\bin\Debug\net6.0\sequencia-impares.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\sequencia-impares\sequencia-impares\obj\Debug\net6.0\sequencia-impares.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\sequencia-impares\sequencia-impares\obj\Debug\net6.0\sequencia-impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\sequencia-impares\sequencia-impares\obj\Debug\net6.0\sequencia-impares.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\sequencia-impares\sequencia-impares\obj\Debug\net6.0\sequencia-impares.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\sequencia-impares\sequencia-impares\obj\Debug\net6.0\sequencia-impares.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\sequencia-impares\sequencia-impares\obj\Debug\net6.0\sequencia-impares.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\sequencia-impares\sequencia-impares\obj\Debug\net6.0\refint\sequencia-impares.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\sequencia-impares\sequencia-impares\obj\Debug\net6.0\sequencia-impares.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\sequencia-impares\sequencia-impares\obj\Debug\net6.0\sequencia-impares.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\sequencia-impares\sequencia-impares\obj\Debug\net6.0\ref\sequencia-impares.dll

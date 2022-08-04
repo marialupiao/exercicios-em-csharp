@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\pares-consecutivos\pares-consecutivos\bin\Debug\net6.0\pares-consecutivos.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\pares-consecutivos\pares-consecutivos\bin\Debug\net6.0\pares-consecutivos.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\pares-consecutivos\pares-consecutivos\bin\Debug\net6.0\pares-consecutivos.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\pares-consecutivos\pares-consecutivos\bin\Debug\net6.0\pares-consecutivos.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\pares-consecutivos\pares-consecutivos\bin\Debug\net6.0\pares-consecutivos.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\pares-consecutivos\pares-consecutivos\obj\Debug\net6.0\pares-consecutivos.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\pares-consecutivos\pares-consecutivos\obj\Debug\net6.0\pares-consecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\pares-consecutivos\pares-consecutivos\obj\Debug\net6.0\pares-consecutivos.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\pares-consecutivos\pares-consecutivos\obj\Debug\net6.0\pares-consecutivos.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\pares-consecutivos\pares-consecutivos\obj\Debug\net6.0\pares-consecutivos.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\pares-consecutivos\pares-consecutivos\obj\Debug\net6.0\pares-consecutivos.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\pares-consecutivos\pares-consecutivos\obj\Debug\net6.0\refint\pares-consecutivos.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\pares-consecutivos\pares-consecutivos\obj\Debug\net6.0\pares-consecutivos.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\pares-consecutivos\pares-consecutivos\obj\Debug\net6.0\pares-consecutivos.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\pares-consecutivos\pares-consecutivos\obj\Debug\net6.0\ref\pares-consecutivos.dll

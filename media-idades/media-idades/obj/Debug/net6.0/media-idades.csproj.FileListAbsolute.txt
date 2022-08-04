@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-idades\media-idades\bin\Debug\net6.0\media-idades.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-idades\media-idades\bin\Debug\net6.0\media-idades.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-idades\media-idades\bin\Debug\net6.0\media-idades.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-idades\media-idades\bin\Debug\net6.0\media-idades.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-idades\media-idades\bin\Debug\net6.0\media-idades.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-idades\media-idades\obj\Debug\net6.0\media-idades.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-idades\media-idades\obj\Debug\net6.0\media-idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-idades\media-idades\obj\Debug\net6.0\media-idades.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-idades\media-idades\obj\Debug\net6.0\media-idades.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-idades\media-idades\obj\Debug\net6.0\media-idades.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-idades\media-idades\obj\Debug\net6.0\media-idades.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-idades\media-idades\obj\Debug\net6.0\refint\media-idades.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-idades\media-idades\obj\Debug\net6.0\media-idades.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-idades\media-idades\obj\Debug\net6.0\media-idades.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-idades\media-idades\obj\Debug\net6.0\ref\media-idades.dll

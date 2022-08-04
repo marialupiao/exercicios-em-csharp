@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\quadrante\quadrante\bin\Debug\net6.0\quadrante.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\quadrante\quadrante\bin\Debug\net6.0\quadrante.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\quadrante\quadrante\bin\Debug\net6.0\quadrante.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\quadrante\quadrante\bin\Debug\net6.0\quadrante.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\quadrante\quadrante\bin\Debug\net6.0\quadrante.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\quadrante\quadrante\obj\Debug\net6.0\quadrante.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\quadrante\quadrante\obj\Debug\net6.0\quadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\quadrante\quadrante\obj\Debug\net6.0\quadrante.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\quadrante\quadrante\obj\Debug\net6.0\quadrante.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\quadrante\quadrante\obj\Debug\net6.0\quadrante.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\quadrante\quadrante\obj\Debug\net6.0\quadrante.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\quadrante\quadrante\obj\Debug\net6.0\refint\quadrante.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\quadrante\quadrante\obj\Debug\net6.0\quadrante.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\quadrante\quadrante\obj\Debug\net6.0\quadrante.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\quadrante\quadrante\obj\Debug\net6.0\ref\quadrante.dll

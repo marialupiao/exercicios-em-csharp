@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\senha-fixa\senha-fixa\bin\Debug\net6.0\senha-fixa.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\senha-fixa\senha-fixa\bin\Debug\net6.0\senha-fixa.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\senha-fixa\senha-fixa\bin\Debug\net6.0\senha-fixa.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\senha-fixa\senha-fixa\bin\Debug\net6.0\senha-fixa.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\senha-fixa\senha-fixa\bin\Debug\net6.0\senha-fixa.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\senha-fixa\senha-fixa\obj\Debug\net6.0\senha-fixa.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\senha-fixa\senha-fixa\obj\Debug\net6.0\senha-fixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\senha-fixa\senha-fixa\obj\Debug\net6.0\senha-fixa.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\senha-fixa\senha-fixa\obj\Debug\net6.0\senha-fixa.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\senha-fixa\senha-fixa\obj\Debug\net6.0\senha-fixa.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\senha-fixa\senha-fixa\obj\Debug\net6.0\senha-fixa.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\senha-fixa\senha-fixa\obj\Debug\net6.0\refint\senha-fixa.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\senha-fixa\senha-fixa\obj\Debug\net6.0\senha-fixa.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\senha-fixa\senha-fixa\obj\Debug\net6.0\senha-fixa.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\senha-fixa\senha-fixa\obj\Debug\net6.0\ref\senha-fixa.dll

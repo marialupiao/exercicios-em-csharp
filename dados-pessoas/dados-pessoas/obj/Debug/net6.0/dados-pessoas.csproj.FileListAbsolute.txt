@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\dados-pessoas\dados-pessoas\bin\Debug\net6.0\dados-pessoas.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\dados-pessoas\dados-pessoas\bin\Debug\net6.0\dados-pessoas.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\dados-pessoas\dados-pessoas\bin\Debug\net6.0\dados-pessoas.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\dados-pessoas\dados-pessoas\bin\Debug\net6.0\dados-pessoas.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\dados-pessoas\dados-pessoas\bin\Debug\net6.0\dados-pessoas.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\dados-pessoas\dados-pessoas\obj\Debug\net6.0\dados-pessoas.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\dados-pessoas\dados-pessoas\obj\Debug\net6.0\dados-pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\dados-pessoas\dados-pessoas\obj\Debug\net6.0\dados-pessoas.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\dados-pessoas\dados-pessoas\obj\Debug\net6.0\dados-pessoas.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\dados-pessoas\dados-pessoas\obj\Debug\net6.0\dados-pessoas.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\dados-pessoas\dados-pessoas\obj\Debug\net6.0\dados-pessoas.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\dados-pessoas\dados-pessoas\obj\Debug\net6.0\refint\dados-pessoas.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\dados-pessoas\dados-pessoas\obj\Debug\net6.0\dados-pessoas.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\dados-pessoas\dados-pessoas\obj\Debug\net6.0\dados-pessoas.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\dados-pessoas\dados-pessoas\obj\Debug\net6.0\ref\dados-pessoas.dll

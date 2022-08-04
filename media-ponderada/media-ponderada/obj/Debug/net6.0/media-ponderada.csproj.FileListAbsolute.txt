@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-ponderada\media-ponderada\bin\Debug\net6.0\media-ponderada.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-ponderada\media-ponderada\bin\Debug\net6.0\media-ponderada.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-ponderada\media-ponderada\bin\Debug\net6.0\media-ponderada.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-ponderada\media-ponderada\bin\Debug\net6.0\media-ponderada.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-ponderada\media-ponderada\bin\Debug\net6.0\media-ponderada.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-ponderada\media-ponderada\obj\Debug\net6.0\media-ponderada.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-ponderada\media-ponderada\obj\Debug\net6.0\media-ponderada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-ponderada\media-ponderada\obj\Debug\net6.0\media-ponderada.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-ponderada\media-ponderada\obj\Debug\net6.0\media-ponderada.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-ponderada\media-ponderada\obj\Debug\net6.0\media-ponderada.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-ponderada\media-ponderada\obj\Debug\net6.0\media-ponderada.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-ponderada\media-ponderada\obj\Debug\net6.0\refint\media-ponderada.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-ponderada\media-ponderada\obj\Debug\net6.0\media-ponderada.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-ponderada\media-ponderada\obj\Debug\net6.0\media-ponderada.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\media-ponderada\media-ponderada\obj\Debug\net6.0\ref\media-ponderada.dll

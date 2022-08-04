@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\circulo\circulo\bin\Debug\net6.0\circulo.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\circulo\circulo\bin\Debug\net6.0\circulo.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\circulo\circulo\bin\Debug\net6.0\circulo.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\circulo\circulo\bin\Debug\net6.0\circulo.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\circulo\circulo\bin\Debug\net6.0\circulo.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\circulo\circulo\obj\Debug\net6.0\circulo.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\circulo\circulo\obj\Debug\net6.0\circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\circulo\circulo\obj\Debug\net6.0\circulo.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\circulo\circulo\obj\Debug\net6.0\circulo.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\circulo\circulo\obj\Debug\net6.0\circulo.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\circulo\circulo\obj\Debug\net6.0\circulo.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\circulo\circulo\obj\Debug\net6.0\refint\circulo.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\circulo\circulo\obj\Debug\net6.0\circulo.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\circulo\circulo\obj\Debug\net6.0\circulo.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\circulo\circulo\obj\Debug\net6.0\ref\circulo.dll

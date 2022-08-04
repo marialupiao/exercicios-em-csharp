@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-linhas\soma-linhas\bin\Debug\net6.0\soma-linhas.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-linhas\soma-linhas\bin\Debug\net6.0\soma-linhas.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-linhas\soma-linhas\bin\Debug\net6.0\soma-linhas.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-linhas\soma-linhas\bin\Debug\net6.0\soma-linhas.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-linhas\soma-linhas\bin\Debug\net6.0\soma-linhas.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-linhas\soma-linhas\obj\Debug\net6.0\soma-linhas.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-linhas\soma-linhas\obj\Debug\net6.0\soma-linhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-linhas\soma-linhas\obj\Debug\net6.0\soma-linhas.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-linhas\soma-linhas\obj\Debug\net6.0\soma-linhas.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-linhas\soma-linhas\obj\Debug\net6.0\soma-linhas.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-linhas\soma-linhas\obj\Debug\net6.0\soma-linhas.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-linhas\soma-linhas\obj\Debug\net6.0\refint\soma-linhas.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-linhas\soma-linhas\obj\Debug\net6.0\soma-linhas.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-linhas\soma-linhas\obj\Debug\net6.0\soma-linhas.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\soma-linhas\soma-linhas\obj\Debug\net6.0\ref\soma-linhas.dll

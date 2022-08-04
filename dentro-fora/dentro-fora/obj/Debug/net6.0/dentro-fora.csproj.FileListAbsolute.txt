@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\dentro-fora\dentro-fora\bin\Debug\net6.0\dentro-fora.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\dentro-fora\dentro-fora\bin\Debug\net6.0\dentro-fora.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\dentro-fora\dentro-fora\bin\Debug\net6.0\dentro-fora.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\dentro-fora\dentro-fora\bin\Debug\net6.0\dentro-fora.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\dentro-fora\dentro-fora\bin\Debug\net6.0\dentro-fora.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\dentro-fora\dentro-fora\obj\Debug\net6.0\dentro-fora.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\dentro-fora\dentro-fora\obj\Debug\net6.0\dentro-fora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\dentro-fora\dentro-fora\obj\Debug\net6.0\dentro-fora.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\dentro-fora\dentro-fora\obj\Debug\net6.0\dentro-fora.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\dentro-fora\dentro-fora\obj\Debug\net6.0\dentro-fora.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\dentro-fora\dentro-fora\obj\Debug\net6.0\dentro-fora.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\dentro-fora\dentro-fora\obj\Debug\net6.0\refint\dentro-fora.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\dentro-fora\dentro-fora\obj\Debug\net6.0\dentro-fora.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\dentro-fora\dentro-fora\obj\Debug\net6.0\dentro-fora.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\dentro-fora\dentro-fora\obj\Debug\net6.0\ref\dentro-fora.dll

@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\crescente\crescente\bin\Debug\net6.0\crescente.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\crescente\crescente\bin\Debug\net6.0\crescente.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\crescente\crescente\bin\Debug\net6.0\crescente.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\crescente\crescente\bin\Debug\net6.0\crescente.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\crescente\crescente\bin\Debug\net6.0\crescente.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\crescente\crescente\obj\Debug\net6.0\crescente.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\crescente\crescente\obj\Debug\net6.0\crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\crescente\crescente\obj\Debug\net6.0\crescente.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\crescente\crescente\obj\Debug\net6.0\crescente.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\crescente\crescente\obj\Debug\net6.0\crescente.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\crescente\crescente\obj\Debug\net6.0\crescente.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\crescente\crescente\obj\Debug\net6.0\refint\crescente.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\crescente\crescente\obj\Debug\net6.0\crescente.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\crescente\crescente\obj\Debug\net6.0\crescente.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\crescente\crescente\obj\Debug\net6.0\ref\crescente.dll

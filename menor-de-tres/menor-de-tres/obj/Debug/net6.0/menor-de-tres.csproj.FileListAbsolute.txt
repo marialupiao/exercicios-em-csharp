@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\menor-de-tres\menor-de-tres\bin\Debug\net6.0\menor-de-tres.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\menor-de-tres\menor-de-tres\bin\Debug\net6.0\menor-de-tres.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\menor-de-tres\menor-de-tres\bin\Debug\net6.0\menor-de-tres.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\menor-de-tres\menor-de-tres\bin\Debug\net6.0\menor-de-tres.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\menor-de-tres\menor-de-tres\bin\Debug\net6.0\menor-de-tres.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\menor-de-tres\menor-de-tres\obj\Debug\net6.0\menor-de-tres.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\menor-de-tres\menor-de-tres\obj\Debug\net6.0\menor-de-tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\menor-de-tres\menor-de-tres\obj\Debug\net6.0\menor-de-tres.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\menor-de-tres\menor-de-tres\obj\Debug\net6.0\menor-de-tres.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\menor-de-tres\menor-de-tres\obj\Debug\net6.0\menor-de-tres.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\menor-de-tres\menor-de-tres\obj\Debug\net6.0\menor-de-tres.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\menor-de-tres\menor-de-tres\obj\Debug\net6.0\refint\menor-de-tres.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\menor-de-tres\menor-de-tres\obj\Debug\net6.0\menor-de-tres.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\menor-de-tres\menor-de-tres\obj\Debug\net6.0\menor-de-tres.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\menor-de-tres\menor-de-tres\obj\Debug\net6.0\ref\menor-de-tres.dll

@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco\troco\bin\Debug\net6.0\troco.exe
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco\troco\bin\Debug\net6.0\troco.deps.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco\troco\bin\Debug\net6.0\troco.runtimeconfig.json
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco\troco\bin\Debug\net6.0\troco.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco\troco\bin\Debug\net6.0\troco.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco\troco\obj\Debug\net6.0\troco.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco\troco\obj\Debug\net6.0\troco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco\troco\obj\Debug\net6.0\troco.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco\troco\obj\Debug\net6.0\troco.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco\troco\obj\Debug\net6.0\troco.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco\troco\obj\Debug\net6.0\troco.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco\troco\obj\Debug\net6.0\refint\troco.dll
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco\troco\obj\Debug\net6.0\troco.pdb
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco\troco\obj\Debug\net6.0\troco.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\workspace\ws-cs\troco\troco\obj\Debug\net6.0\ref\troco.dll
